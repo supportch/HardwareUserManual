@@ -1,0 +1,4 @@
+# 3. FUNCTIONAL BLOCK DIAGRAM
+
+![FUNCTIONAL BLOCK DIAGRAM](../../.gitbook/assets/image%20%28127%29.png)
+
