@@ -1,2 +1,2 @@
-# 7. Mechanical Drawing
+# Mechanical Drawing
 

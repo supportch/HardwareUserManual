@@ -1,2 +1,2 @@
-# 8. Module Board Layout
+# Module Board Layout
 

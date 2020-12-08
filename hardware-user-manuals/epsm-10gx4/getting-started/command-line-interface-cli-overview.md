@@ -1,2 +1,2 @@
-# 10.3. Command Line Interface \(CLI\) Overview
+# Command Line Interface \(CLI\) Overview
 

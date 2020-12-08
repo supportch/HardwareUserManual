@@ -1,2 +1,2 @@
-# 11. DSC Standard carrier boards
+# DSC Standard carrier boards
 
