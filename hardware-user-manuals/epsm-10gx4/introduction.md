@@ -1,0 +1,6 @@
+# 2.Introduction
+
+## Overview
+
+The EPSM-10GX4 is a Managed Layer 2+ / Layer 3 Ethernet Switch in an ultra-compact sized module measuring 2.2" x 3.3" \(55 x 84 mm\). It is designed around the Vitesse \(Now Microchip\) VSC7444 Ethernet switch and VSC8512 12-port integrated Gigabit Ethernet \(GE\) PHY. With these components the EPSM-10GX4 can provide up to 4 10Gbps SFI Ethernet ports and 12 1Gbps copper Ethernet ports. When used with IStaX software the EPSM-10GX4 offers true hardware-accelerated Layer 3 routing performance. The EPSM-10GX4 Module requires a carrier board to implement a complete Ethernet switch. The carrier board provides the input power supply, magnetics, I/O connectors, and optional second VSC8512 or VSC8522 PHY for up to 12 additional 1G ports. The EPSM-10GX4 can be purchased alone and used with a customer-designed carrier board, or it can be purchased as an integrated solution with a Diamond-designed carrier board. Available integrated solutions from Diamond include: EPS-24G4X,  24x 1Gbps copper Ethernet ports + 4x 10G SFP+ sockets; heat sink cooling. Diamond Systems can also provide custom carrier board design and manufacturing services to implement a solution precisely tailored to a customer’s requirements.
+
