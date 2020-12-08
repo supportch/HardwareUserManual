@@ -2,6 +2,10 @@
 
 * [User Manuals](README.md)
 * [Hardware User Manuals](hardware-user-manuals/README.md)
+  * [EPSM-10GX4](hardware-user-manuals/epsm-10gx4/README.md)
+    * [Table of Contents](hardware-user-manuals/epsm-10gx4/table-of-contents.md)
+    * [1. IMPORTANT SAFE HANDLING INFORMATION](hardware-user-manuals/epsm-10gx4/1.-important-safe-handling-information.md)
+    * [INTRODUCTION](hardware-user-manuals/epsm-10gx4/introduction.md)
   * [Gemini with ADLINK WL8665UE](hardware-user-manuals/gemini-with-wl8665ue/README.md)
     * [Table of Contents](hardware-user-manuals/gemini-with-wl8665ue/table-of-contents.md)
     * [1. IMPORTANT SAFE HANDLING INFORMATION](hardware-user-manuals/gemini-with-wl8665ue/1.-important-safe-handling-information.md)
