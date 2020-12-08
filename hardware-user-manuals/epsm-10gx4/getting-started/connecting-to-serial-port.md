@@ -1,2 +1,2 @@
-# Connecting to Serial Port
+# 10.2. Connecting to Serial Port
 

@@ -1,2 +1,2 @@
-# Hardware Specifications
+# 12. Hardware Specifications
 

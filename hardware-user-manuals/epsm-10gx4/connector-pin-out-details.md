@@ -2,5 +2,5 @@
 description: Board To Board high speed connector
 ---
 
-# Connector Pin out Details
+# 9. Connector Pin out Details
 
